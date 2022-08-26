@@ -1,5 +1,0 @@
-export * from './getArts/getArtsActions'
-export * from './getCustomerDetails/getCustomerDetailsActions'
-export * from './postArt/newPostActions'
-export * from './getExhibitions/getExhibitionsActions'
-//export * from './getExhibitions/getExhibitions'
